@@ -7,11 +7,11 @@ url: "https://www.ukuat.org/writings/"
 baseurl: "/writings"
 header-img: img/peppermint-1050x591.jpg
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/UKUAT-Logo.png
+logo: /img/logos/UKUAT-Logo.png
 
 # Tertiary Parameters
 github_username:  UKUAT
-project_repository: UKUAT-Website/writings
+project_repository: UKUAT-Website
 disqus_shortname: project-pages
 g-analytics: UA-75881392-1
 altmetric: true
