@@ -7,7 +7,7 @@ url: "https://ukuat.org/writings"
 
 
 # Secondary Parameters
-baseurl: "/project-pages"
+baseurl: "/writings"
 header-img: img/peppermint-1050x591.jpg
 headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/UKUAT-Logo.png
