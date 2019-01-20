@@ -3,9 +3,6 @@ title: UKUAT
 description: "Articles"
 url: "https://www.ukuat.org/writings/"
 
-
-
-
 # Secondary Parameters
 baseurl: "/writings"
 header-img: img/peppermint-1050x591.jpg
@@ -13,7 +10,7 @@ headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/UKUAT-Logo.png
 
 # Tertiary Parameters
-github_username:  johnnydastorm
+github_username:  UKUAT
 project_repository: project-pages
 disqus_shortname: project-pages
 g-analytics: UA-75881392-1
