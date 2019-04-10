@@ -683,6 +683,7 @@ a:hover {
   right: 0;
   top: 0;
   z-index: 0;
+  pointer-events: none;
 }
 blockquote {
   font-style: italic;
@@ -1884,7 +1885,7 @@ body {
 }
 .cid-rhzO66yG2I {
   padding-top: 0px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rhzO66yG2I h4 {
@@ -1900,6 +1901,26 @@ body {
   padding-top: 2rem;
 }
 .cid-rhzO66yG2I .card-wrapper {
+  height: 100%;
+}
+.cid-rngHz5dOm2 {
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-rngHz5dOm2 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rngHz5dOm2 p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rngHz5dOm2 .card-box {
+  padding-top: 2rem;
+}
+.cid-rngHz5dOm2 .card-wrapper {
   height: 100%;
 }
 .cid-re1K9m1ngL {
