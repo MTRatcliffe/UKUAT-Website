@@ -37,8 +37,8 @@
       // a successful payment.
       // Instead use one of the strategies described in
       // https://stripe.com/docs/payments/checkout/fulfillment
-      successUrl: 'http://www.ukuat.org/success',
-      cancelUrl: 'http://www.ukuat.org/canceled',
+      successUrl: window.location.protocol + '//ukuat.org/success',
+      cancelUrl: window.location.protocol + '//ukuat.org/canceled',
     })
     .then(function (result) {
       if (result.error) {
