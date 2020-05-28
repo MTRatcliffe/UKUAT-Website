@@ -2,7 +2,14 @@
 <html >
 <head>
 
-  
+<style>
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+</style>
   
   
 </head>
@@ -10,20 +17,23 @@
 <!-- Load Stripe.js on your website. -->
 <script src="https://js.stripe.com/v3"></script>
 
-<img src="Page.png" width="200">
-<br />
+<div class="center">
+	<img src="Page.png" width="200">
+	<br />
 
 
-<!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
-<button
-  style="background-color:#2eb82e;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
-  id="checkout-button-price_HMAnqPCrqWkO6f"
-  role="link"
->
-  Pay with Stripe
-</button>
+	<!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
+	<button
+	  style="background-color:#2eb82e;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
+	  id="checkout-button-price_HMAnqPCrqWkO6f"
+	  role="link"
+	>
+	  Pay with Stripe
+	</button>
 
-<div id="error-message"></div>
+	<div id="error-message"></div>
+
+</div>
 
 <script>
 (function() {
